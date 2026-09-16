@@ -5,8 +5,8 @@ Thu thập & phân tích dữ liệu tuyển dụng IT — pipeline end-to-end (
 > 📌 File này sẽ được viết lại hoàn chỉnh ở Tuần 4 (sơ đồ kiến trúc, hướng dẫn chạy, ảnh dashboard, phân chia công việc). Bản dưới đây chỉ là khung sườn ban đầu.
 
 ## Thành viên
-- **[Tên bạn]** — DevOps: Docker, Airflow infra, CI/CD, deploy, monitoring
-- **[Tên bạn học]** — Data Engineer: crawl, clean data, transform, DAG logic, SQL, dashboard queries
+- **Nguyễn Duy Tân** — DevOps: Docker, Airflow infra, CI/CD, deploy, monitoring
+- **Nguyễn Thanh Thế** — Data Engineer: crawl, clean data, transform, DAG logic, SQL, dashboard queries
 
 ## Kiến trúc (tạm thời — cập nhật ở tuần 4)
 
