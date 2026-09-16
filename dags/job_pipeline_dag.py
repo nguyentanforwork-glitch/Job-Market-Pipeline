@@ -1,6 +1,5 @@
 """
 DAG chính của pipeline: extract -> transform -> load, chạy hàng ngày.
-
 Tuần 2 (DE viết logic, DevOps kiểm tra DAG chạy ổn định qua Airflow UI).
 """
 from datetime import datetime
