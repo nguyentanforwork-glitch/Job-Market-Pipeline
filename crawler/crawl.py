@@ -7,9 +7,8 @@ Tuần 1 (DE):
 - Lưu tạm ra CSV để test trước khi nối vào Postgres
 """
 import os
-import time
-
-import requests
+import time  # noqa: F401
+import requests  # noqa: F401
 from bs4 import BeautifulSoup
 
 BASE_URL = os.getenv("CRAWL_BASE_URL", "https://example.com/jobs")
